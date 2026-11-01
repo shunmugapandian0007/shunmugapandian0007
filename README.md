@@ -1,81 +1,136 @@
- <div align="center">
 
-# 🩵 Shunmugapandian P
+<!-- ================================================== -->
+<!-- SHUNMUGAPANDIAN P | DEVELOPER PROFILE               -->
+<!-- ================================================== -->
 
-### Full Stack Developer
+<div align="center">
 
-*Building beautiful websites and useful digital products.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07130A,45:123D19,100:39FF14&height=180&section=header&text=SHUNMUGAPANDIAN%20P&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20THE%20FUTURE&descSize=12&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1000&color=8B7CF6&center=true&vCenter=true&width=435&lines=React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Websites;Learning+%26+Building+Every+Day" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Products+That+Solve+Problems;Think.+Build.+Deploy." alt="Developer introduction" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/shunmugapandian0007)
+<br/>
+
+<a href="https://github.com/shunmugapandian0007">
+<img src="https://img.shields.io/badge/GitHub-shunmugapandian0007-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
+</a>
+
+<a href="https://vijaya-chemicals-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE-VIJAYA_CHEMICALS-173D20?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Vijaya Chemicals" />
+</a>
+
+<a href="https://new-spartans-gym.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE-NEW_SPARTANS_GYM-173D20?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="New Spartans Gym" />
+</a>
 
 </div>
 
 ---
 
-## 🌷 About Me
+## `01` / ABOUT ME
 
-👋 Hi! I'm Shunmugapandian, a CSE graduate passionate about full-stack development.
+```javascript
+const developer = {
+  name: "Shunmugapandian P",
+  role: "Full Stack Developer",
+  focus: ["Web Development", "MERN Stack", "UI/UX"],
+  currentlyBuilding: [
+    "E-commerce Applications",
+    "Responsive Websites"
+  ],
+  mindset: "Learn continuously. Build consistently.",
+  mission: "Turn ideas into useful digital products."
+};
+```
 
-- 💻 Building responsive web applications.
-- 🎨 Interested in UI design and frontend development.
-- 🚀 Working on real-world business websites.
-- 🌱 Learning, building and improving every day.
+---
 
-## 🧸 My Projects
+## `02` / TECHNOLOGY ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github,vscode&theme=dark&perline=7" alt="Technology stack" />
+
+</div>
+
+---
+
+## `03` / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩵 Vijaya Chemicals
+### 🧴 Vijaya Chemicals
 
-A cleaning products e-commerce website with a modern storefront and shopping experience.
+**E-commerce Web Application**
 
-**Tech:** React · Node.js · Express · MongoDB
+A digital storefront for cleaning products, designed to support product discovery and online shopping.
 
-[🌐 Live Demo](YOUR_VIJAYA_LIVE_URL) · [💻 Source Code](YOUR_VIJAYA_REPO_URL)
+**Stack**
+- React
+- Node.js & Express
+- MongoDB
+
+<a href="https://vijaya-chemicals-frontend.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-39FF14?style=for-the-badge&labelColor=101510" alt="Explore Vijaya Chemicals" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💜 Fitness Website
+### 💪 New Spartans Gym
 
-A modern fitness website with a clean interface and responsive design.
+**Fitness Website**
 
-**Tech:** React · JavaScript · HTML · CSS
+A web presence for a gym, focused on a clean layout and an engaging fitness experience.
 
-[🌐 Live Demo](YOUR_FITNESS_LIVE_URL) · [💻 Source Code](YOUR_FITNESS_REPO_URL)
+**Project focus**
+- Responsive design
+- Website UI
+- Frontend development
+
+<a href="https://new-spartans-gym.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-39FF14?style=for-the-badge&labelColor=101510" alt="Explore New Spartans Gym" />
+</a>
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
-## 🍡 My Tech Stack
+
+## `04` / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,java,git,github&perline=7" alt="Technologies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shunmugapandian0007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E6EDF3" alt="GitHub stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunmugapandian0007&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3" alt="Top languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shunmugapandian0007&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E6EDF3&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-## 🌈 GitHub Stats
+
+## `05` / CONNECT
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shunmugapandian0007&show_icons=true&hide_border=true&bg_color=FFF7F2&title_color=8B7CF6&icon_color=F4A7B9&text_color=555555" alt="GitHub stats"/>
+<a href="https://github.com/shunmugapandian0007">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunmugapandian0007&layout=compact&hide_border=true&bg_color=F0F7FF&title_color=6C9FE8&text_color=555555" alt="Top languages"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
-</div>
+<br/><br/>
 
----
+**Open to opportunities, collaboration, and building meaningful products.**
 
-<div align="center">
-
-### ☁️ Thanks for visiting my profile!
-
-*Dream · Design · Develop · Repeat* 🩵
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:123D19,100:07130A&height=100&section=footer" />
 
 </div>
