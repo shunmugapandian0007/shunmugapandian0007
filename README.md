@@ -100,22 +100,8 @@ A web presence for a gym, focused on a clean layout and an engaging fitness expe
 <td colspan="2" valign="top">
 
 
-## `04` / GITHUB ANALYTICS
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shunmugapandian0007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E6EDF3" alt="GitHub stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunmugapandian0007&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3" alt="Top languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=shunmugapandian0007&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E6EDF3&dates=8B949E" alt="GitHub streak" />
-
-</div>
-
-
-## `05` / CONNECT
+## `04` / CONNECT
 
 <div align="center">
 
